@@ -1,1 +1,1 @@
-# paint-github-6fc38
+# github-6fc38
